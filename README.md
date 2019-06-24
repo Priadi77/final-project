@@ -7,5 +7,5 @@ Menampilkan peringatan untuk menginstal software di cmd-ketika dipilih Y atau y 
 tool yang digunakan:
 1. Sublime text 3
 2. MinGW
-VMWare
-windows xp
+3. VMWare
+4. windows xp
